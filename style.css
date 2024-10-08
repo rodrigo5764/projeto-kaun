@@ -14,7 +14,7 @@ body {
 h1 {
     display: flex;
 justify-content: center;
-color: rgb(255, 254, 253);
+color: rgb(56, 184, 44);
 font-size: 50px;
 }
 
@@ -27,12 +27,12 @@ font-size: 50px;
     justify-content: center;
 }
 h2{
-    color: rgb(255, 253, 252);
+    color: rgb(20, 164, 71);
  
 }
 h3{
     margin: 20px;
-    color: rgb(255, 255, 255);
+    color: rgb(23, 175, 54);
 }
 .h2{
     padding: 20px;
@@ -40,5 +40,5 @@ h3{
 }
 a{
     margin: 20px;
-    background-color: rgb(244, 244, 248);
+    background-color: rgb(42, 186, 42);
 }
